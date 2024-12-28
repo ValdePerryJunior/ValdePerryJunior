@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ValdePerryJunior
+- 👋 Hi, I’m @ValdPerryJunior
 - 👀 I’m interested in AI, Data science
 - 🌱 I’m currently learning LLM.
 

@@ -28,8 +28,7 @@ Welcome to my GitHub profile! I'm a passionate coder, eager learner and reliable
 
 ## 📝 Latest Projects
 
-- [AI English learning assistant using react](https://github.com/ValdePerryJunior/AI-app-using-Vite-React)
-- [AI app using Vite+react+Chakra](https://github.com/ValdePerryJunior/AI-app-using-Vite-React-Chakra-Clerk)
+- [AI-english-learning-assistant-using-Vite-React](https://github.com/ValdePerryJunior/AI-english-learning-assistant-using-Vite-React)
 
 ## 📬 Reach Out to Me
 Feel free to connect with me on:
